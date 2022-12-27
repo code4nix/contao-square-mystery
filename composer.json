@@ -22,7 +22,7 @@
         "source": "https://github.com/code4nix/contao-square-mystery"
     },
     "require": {
-        "php": "^8.0",
+        "php": "^8.1",
         "contao/core-bundle": "^4.13 || ^5.0"
     },
     "require-dev": {
